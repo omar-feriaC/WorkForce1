@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkForce1API", "WorkForce1API.csproj", "{FC45DB6F-33AF-43F9-9E35-6B4F9B54E318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC45DB6F-33AF-43F9-9E35-6B4F9B54E318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC45DB6F-33AF-43F9-9E35-6B4F9B54E318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC45DB6F-33AF-43F9-9E35-6B4F9B54E318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC45DB6F-33AF-43F9-9E35-6B4F9B54E318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482DF1B1-2284-44E7-B149-C6C4D67AAF60}
+	EndGlobalSection
+EndGlobal
